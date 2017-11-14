@@ -20,7 +20,7 @@ public class Main extends Application {
 
     }
 
-  /*                            JA !                             */
+  /*                            JAja !                             */
     public static void main(String[] args) {
         launch(args);
     }
